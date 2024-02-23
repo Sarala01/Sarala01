@@ -2,14 +2,13 @@
 
 
 <img align="right" width="370" height="290" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
-- 🔭 Here's my [portfolio]()                                                 
-- 🌱 I’m currently learning DSA,web development
-- 👩‍🎓 I'm MCA graduate
-- 🤔 I’m looking for help with Placements
-- 📫 How to reach me :
+- 🔭 Here's my [portfolio]()        <br />                                         
+- 🌱 I’m currently learning DSA,web development<br />
+- 👩‍🎓 I'm MCA graduate<br />
+- 🤔 I’m looking for help with Placements<br />
+- 📫 How to reach me :<br />
 <br />
-<br />
-Email: saralark99@gmail.com
+Email: saralark99@gmail.com<br />
 linkedIn: https://www.linkedin.com/in/sarala-r
 
 ### I code in
