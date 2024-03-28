@@ -1,7 +1,7 @@
 ## HELLO 👋 It's me Sarala
 
 
-<img align="right" width="370" height="290" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" width="370" height="290" src="https://www.liveagood.life/wp-content/uploads/2021/12/59311-girl-working-on-laptop-lottie-animation.gif">
 - 🔭 Here's my [portfolio]()        <br />                                         
 - 🌱 I’m currently learning DSA,web development<br />
 - 👩‍🎓 I'm MCA graduate<br />
